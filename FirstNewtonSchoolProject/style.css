@@ -9,7 +9,6 @@
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
-    justify-content: center;
     text-align: center;
     font-weight: 400;
     color: white;
@@ -56,6 +55,7 @@
 .bottom{
     display: flex;
     padding: 20px;
+    justify-content: space-between;
 }
 .contect{
     background-color: aqua;
